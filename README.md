@@ -60,7 +60,7 @@ I developed an app to track my finances in a simple and intuitive way. At that t
   <img src="https://play-lh.googleusercontent.com/2TEJNox390HSik_bhqHKFsSw2x6vXjEteTQBIEAYlRhas7X1QvBh4BgHucCJiOGT6jE=w5120-h2880-rw" width="330" height="640"/>&nbsp;
   </div>
   
-### 🧰: Tech Used :
+### 🧰 Tech Used :
 - MVVM
 - Live Data
 - Coroutines
@@ -70,5 +70,29 @@ I developed an app to track my finances in a simple and intuitive way. At that t
 - Material Design 3
 
 <a href='https://play.google.com/store/apps/details?id=com.netoloboapps.controlegastos&hl=en_CA&gl=US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' width="300" height="100" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+
+---
+
+### Pokedex :
+I developed a Pokedex app to enhance my skills in Android development and familiarize myself with the latest technologies in the field.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/641469/223603976-6bcacb79-7027-4fdb-8033-ff2ef16180ad.png" width="330" height="640"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/641469/223603986-b75eb331-c3ab-4e4d-b308-c867ee4c937f.png" width="330" height="640"/>&nbsp;
+  </div>
+  
+### 🧰 Tech Used :
+- Clean Architecture
+- MVVM
+- Jetpack Compose
+- Rest API
+- Pagination
+- Retrofit
+- Coroutines
+- Navigation
+- Dagger Hilt
+- Material Design 3
+
+https://github.com/netolobo/Pokedex
 
 
