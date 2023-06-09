@@ -95,4 +95,29 @@ I developed a Pokedex app to enhance my skills in Android development and famili
 
 https://github.com/netolobo/Pokedex
 
+---
+
+### Funny jokes :
+This app offers a wide collection of jokes categorized for easy browsing. Users can enjoy reading the jokes and conveniently share them on their social media platforms. I initially created this app a while ago and recently updated it to incorporate the latest technologies used in Android development.
+
+<div>
+  <img src="https://play-lh.googleusercontent.com/qwrEUbMDExbbHFVouI-1zbnKunLes7z83f-IewUaxUfGFWpYNTmYiTw06J_i455fsTg=w5120-h2880-rw" width="330" height="640"/>&nbsp;
+  <img src="https://play-lh.googleusercontent.com/RKI09UwlmFoXixkKjO0YYSw3XqMpMq45C9yzw9eaWvkI1XZb1KWA1fwpKJumZ7sORw8=w5120-h2880-rw" width="330" height="640"/>&nbsp;
+  <img src="https://play-lh.googleusercontent.com/wlyMs4tLhpE2A_FYqx06XIxHy8A2wD2r71IXyEYIZmK_kC_BGXyX82PXeyjEy4Hm0AA=w5120-h2880-rw" width="330" height="640"/>&nbsp;
+  </div>
+  
+### 🧰 Tech Used :
+- Clean Architecture
+- MVVM
+- Jetpack Compose
+- Firebase Firestore
+- Coroutines
+- Navigation
+- Dagger Hilt
+- Material Design 3
+
+<a href='https://play.google.com/store/apps/details?id=com.n3t0l0b0.blogspot.pe.activitys&hl=en_CA&gl=US&gl=US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' width="300" height="100" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+
+---
+
 
