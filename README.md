@@ -52,7 +52,7 @@ I am an Android Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### 🗃️: Portfolio :
 
 ### Expense Control :
-Is an app I built to track my finances in a simply way, back that time I was looking for and app for tracking my finances but all the options available was to complicated.
+I developed an app to track my finances in a simple and intuitive way. At that time, I was searching for a finance tracking app, but all the available options were too complicated. Building this app not only helped me gain experience with SQLite database, date and number formatting, but also taught me how to internationalize currency, dates, times, and texts. The app is currently available in Portuguese, Spanish, and English.
 
 <div>
   <img src="https://play-lh.googleusercontent.com/s8UODpXUft4AgYo0-IroZo8wkt_iuUEcuiGM18difxjQAvtd5uum22EWYElupnn7OA=w5120-h2880-rw" width="330" height="640"/>&nbsp;
@@ -69,6 +69,6 @@ Is an app I built to track my finances in a simply way, back that time I was loo
 - Recycler View
 - Material Design 3
 
-<a href='https://play.google.com/store/apps/details?id=com.netoloboapps.controlegastos&hl=en_CA&gl=US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' width="346" height="100" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.netoloboapps.controlegastos&hl=en_CA&gl=US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' width="300" height="100" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
 
