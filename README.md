@@ -58,6 +58,17 @@ Is an app I built to track my finances in a simply way, back that time I was loo
   <img src="https://play-lh.googleusercontent.com/s8UODpXUft4AgYo0-IroZo8wkt_iuUEcuiGM18difxjQAvtd5uum22EWYElupnn7OA=w5120-h2880-rw" width="330" height="640"/>&nbsp;
   <img src="https://play-lh.googleusercontent.com/MasAi8HNRucWP42Zy_zJ1v-qIOaCg6y4VUnfVyayQrKy3QnoBjUx3ynTrOMRamfB-_g=w5120-h2880-rw" width="330" height="640"/>&nbsp;
   <img src="https://play-lh.googleusercontent.com/2TEJNox390HSik_bhqHKFsSw2x6vXjEteTQBIEAYlRhas7X1QvBh4BgHucCJiOGT6jE=w5120-h2880-rw" width="330" height="640"/>&nbsp;
+  </div>
   
+### 🧰: Tech Used :
+- MVVM
+- Live Data
+- Coroutines
+- Room Database
+- XML Layout
+- Recycler View
+- Material Design 3
+
+<a href='https://play.google.com/store/apps/details?id=com.netoloboapps.controlegastos&hl=en_CA&gl=US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' width="346" height="100" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
 
