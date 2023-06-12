@@ -55,9 +55,9 @@ I am an Android Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 I developed an app to track my finances in a simple and intuitive way. At that time, I was searching for a finance tracking app, but all the available options were too complicated. Building this app not only helped me gain experience with SQLite database, date and number formatting, but also taught me how to internationalize currency, dates, times, and texts. The app is currently available in Portuguese, Spanish, and English.
 
 <div>
-  <img src="https://play-lh.googleusercontent.com/s8UODpXUft4AgYo0-IroZo8wkt_iuUEcuiGM18difxjQAvtd5uum22EWYElupnn7OA=w5120-h2880-rw" width="330" height="640"/>&nbsp;
-  <img src="https://play-lh.googleusercontent.com/MasAi8HNRucWP42Zy_zJ1v-qIOaCg6y4VUnfVyayQrKy3QnoBjUx3ynTrOMRamfB-_g=w5120-h2880-rw" width="330" height="640"/>&nbsp;
-  <img src="https://play-lh.googleusercontent.com/2TEJNox390HSik_bhqHKFsSw2x6vXjEteTQBIEAYlRhas7X1QvBh4BgHucCJiOGT6jE=w5120-h2880-rw" width="330" height="640"/>&nbsp;
+  <img src="https://play-lh.googleusercontent.com/s8UODpXUft4AgYo0-IroZo8wkt_iuUEcuiGM18difxjQAvtd5uum22EWYElupnn7OA=w5120-h2880-rw" width="325" height="640"/>&nbsp;
+  <img src="https://play-lh.googleusercontent.com/MasAi8HNRucWP42Zy_zJ1v-qIOaCg6y4VUnfVyayQrKy3QnoBjUx3ynTrOMRamfB-_g=w5120-h2880-rw" width="325" height="640"/>&nbsp;
+  <img src="https://play-lh.googleusercontent.com/2TEJNox390HSik_bhqHKFsSw2x6vXjEteTQBIEAYlRhas7X1QvBh4BgHucCJiOGT6jE=w5120-h2880-rw" width="325" height="640"/>&nbsp;
   </div>
   
 ### 🧰 Tech Used :
@@ -101,9 +101,9 @@ https://github.com/netolobo/Pokedex
 This app offers a wide collection of jokes categorized for easy browsing. Users can enjoy reading the jokes and conveniently share them on their social media platforms. I initially created this app a while ago and recently updated it to incorporate the latest technologies used in Android development.
 
 <div>
-  <img src="https://play-lh.googleusercontent.com/qwrEUbMDExbbHFVouI-1zbnKunLes7z83f-IewUaxUfGFWpYNTmYiTw06J_i455fsTg=w5120-h2880-rw" width="330" height="640"/>&nbsp;
-  <img src="https://play-lh.googleusercontent.com/RKI09UwlmFoXixkKjO0YYSw3XqMpMq45C9yzw9eaWvkI1XZb1KWA1fwpKJumZ7sORw8=w5120-h2880-rw" width="330" height="640"/>&nbsp;
-  <img src="https://play-lh.googleusercontent.com/wlyMs4tLhpE2A_FYqx06XIxHy8A2wD2r71IXyEYIZmK_kC_BGXyX82PXeyjEy4Hm0AA=w5120-h2880-rw" width="330" height="640"/>&nbsp;
+  <img src="https://play-lh.googleusercontent.com/qwrEUbMDExbbHFVouI-1zbnKunLes7z83f-IewUaxUfGFWpYNTmYiTw06J_i455fsTg=w5120-h2880-rw" width="325" height="640"/>&nbsp;
+  <img src="https://play-lh.googleusercontent.com/RKI09UwlmFoXixkKjO0YYSw3XqMpMq45C9yzw9eaWvkI1XZb1KWA1fwpKJumZ7sORw8=w5120-h2880-rw" width="325" height="640"/>&nbsp;
+  <img src="https://play-lh.googleusercontent.com/wlyMs4tLhpE2A_FYqx06XIxHy8A2wD2r71IXyEYIZmK_kC_BGXyX82PXeyjEy4Hm0AA=w5120-h2880-rw" width="325" height="640"/>&nbsp;
   </div>
   
 ### 🧰 Tech Used :
